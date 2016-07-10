@@ -1,0 +1,15 @@
+
+{
+  "name": "Physijs",
+  "version": "0.1.0",
+  "main": "physi.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chandlerprall/Physijs.git"
+  },
+  "author": "Chandler Prall <chandler.prall@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/kripken/ammo.js/issues"
+  },
+  "homepage": "https://github.com/chandlerprall/Physijs"
+}
